@@ -44,7 +44,7 @@ Project Workflow
 
 Below is a flow chart of the program and how it works
 
-<img src="img/bash clone flowchart.png"></a>
+<img src="img/minishell flowchart.png"></a>
 
 ## Tester
 
