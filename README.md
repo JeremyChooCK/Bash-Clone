@@ -4,7 +4,7 @@ Bash Clone Project
 Overview
 --------
 
-The Bash clone project is an ambitious endeavor that replicates the functionalities of a Unix shell. It is designed to provide a deep understanding of system programming, focusing on the mechanics of Unix system calls, shell behaviors, and process management. The project aims to emulate a standard Unix shell with a range of features and capabilities.
+The Bash clone project is an endeavor that replicates the functionalities of a Unix shell. It is designed to provide a deep understanding of system programming, focusing on the mechanics of Unix system calls, shell behaviors, and process management. The project aims to emulate a standard Unix shell with a range of features and capabilities.
 Features
 --------
 
